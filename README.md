@@ -1,1 +1,1 @@
-# Student-Management-System
+> Note: 此项目为本人在学习C++和Java语言后，针对同一个主题，用不同的语言编写实现<strong>增删改查</strong>功能。
